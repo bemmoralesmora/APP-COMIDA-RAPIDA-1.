@@ -1,0 +1,88 @@
+header{
+    width: 375px;
+    height: 156px;
+    gap: 4px;
+
+}
+
+.rectangulo1{
+    width: 375px;
+    height: 44px;
+
+
+}
+
+.rectangulo2{
+    width: 375px;
+    height: 56px;
+    gap: 12px;
+
+    display: flex;
+    align-items: center;
+
+    padding: 8px 16px 8px 20px;
+
+}
+
+.your{
+    width: 287px;
+    height: 32px;
+
+    font-size: 24px;
+    font-weight: 600;
+
+}
+
+.search{
+    width: 40px;
+    height: 40px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    object-fit: cover;
+
+}
+
+.rectangulo3{
+    width: 375px;
+    height: 48px;
+    gap: 8px;
+
+    display: flex;
+
+    padding: 8px 20px 8px 20px;
+
+}
+
+.cuadritos{
+    width: 106.33px;
+    height: 32px;
+    border-radius: 24px;
+    gap: 8px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.cuadritos1{
+    width: 106.33px;
+    height: 32px;
+    border-radius: 24px;
+    gap: 8px;
+    background-color: rgba(235, 77, 87, 1);
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+
+

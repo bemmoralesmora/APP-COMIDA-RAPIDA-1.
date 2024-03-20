@@ -1,0 +1,76 @@
+.iconos{
+    width: 375px;
+    height: 52px;
+
+    padding: 0px 16px 0px 16px;
+    display: flex;
+}
+
+.iconos1{
+    width: 85.75px;
+    height: 52px;
+    padding: 10px 0px 0px 0px;
+    gap: 4px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 6px;
+}
+
+.iconos2{
+    width: 85.75px;
+    height: 52px;
+    padding: 10px 0px 0px 0px;
+    gap: 4px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.rojo{
+    width: 6px;
+    height: 2px;
+    border-radius: 4px;
+
+    background-color: rgba(235, 77, 87, 1);
+}
+
+.ico-img{
+    width: 24px;
+    height: 24px;
+    color: gray;
+}
+
+.ico-img2{
+    width: 24px;
+    height: 24px;
+    color: rgba(235, 77, 87, 1);
+}
+
+.ico-nombre{
+    width: 85.75px;
+    height: 14px;
+
+    font-size: 10px;
+    font-weight: 400;
+    color: gray;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ico-nombre2{
+    width: 85.75px;
+    height: 14px;
+
+    font-size: 10px;
+    font-weight: 400;
+    color:black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

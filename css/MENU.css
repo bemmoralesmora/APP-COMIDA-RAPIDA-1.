@@ -1,0 +1,154 @@
+.menu{
+    width: 375px;
+    height: 548px;
+    padding: 20px;
+    gap: 16px;
+    margin-top: 5px;
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.titulo{
+    width: 335px;
+    height: 28px;
+
+    font-size: 20px;
+    font-weight: 400;
+
+    gap: 16px;
+    color: rgba(109, 87, 88, 1);
+
+}
+
+.lista{
+    width: 335px;
+    height: 464px;
+    gap: 24px;
+
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.lista-img{
+    width: 335px;
+    height: 98px;
+    border-radius: 12px;
+    gap: 16px;
+
+    display: flex;
+    
+
+}
+
+.img{
+    width: 96px;
+    height: 96px;
+    border-radius: 12px;
+
+}
+
+.img img{
+    border-radius: 12px;
+    object-fit: cover;
+}
+
+.centro{
+    width: 169px;
+    height: 98px;
+    gap: 8px;
+
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.daily{
+    width: 169px;
+    height: 44px;
+}
+
+.daily1{
+    width: 189px;
+    height: 24px;
+
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.daily2{
+    width: 169px;
+    height: 20px;
+    color: gray;
+
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.fecha{
+    width: 150px;
+    height: 16px;
+    gap: 4px;
+
+    display: flex;
+    
+    align-items: center;
+
+    font-size: 10px;
+    font-weight: 400;
+    color: gray;
+
+}
+
+.cuadro-celeste{
+    width: 68px;
+    height: 22px;
+    border-radius: 8px;
+    padding:4px 8px 4px 8px;
+    gap: 4px;
+
+    background-color: rgba(195, 232, 216, 1);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 10px;
+    font-weight: 400;
+
+}
+
+.cuadro-rojo{
+    width: 68px;
+    height: 22px;
+    border-radius: 8px;
+    padding:4px 8px 4px 8px;
+    gap: 4px;
+
+    background-color:rgba(246, 209, 209, 1);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 10px;
+    font-weight: 400;
+
+}
+
+.numero{
+    width: 38px;
+    height: 28px;
+    gap: 4px;
+
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+    color:rgba(195, 71, 83, 1);
+
+    font-size: 20px;
+    font-weight: 400;
+}
